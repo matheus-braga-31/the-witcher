@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  text-transform:uppercase;
+  color:#FFFFFF;
+  font-family:Montserrat;
+  font-size:1.5vw;
+  list-style:none;
+}
+body{
+  height:100vh;
+  background-image: url("./img/the\ witcher\ hell.png");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.container-logo{
+  padding-left:10vw;
+  display:inline-block;
+}
+.logo{
+  margin-top:1.8vh;
+  width:5vw;
+}
+.container-titulo{
+  vertical-align:top;
+  display:inline-block;
+  padding-left:3vw;
+  margin-top:7.2vh; 
+}
+.container-lista{
+  display:inline-block;
+    vertical-align:top;
+  padding-top:7.2vh;
+  padding-left:20vw;
+}
+li{
+  display:inline;
+}
+.container-gerald{
+  height:83vh;
+  background-image:url("./img/the\ witcher\ kavil2.png");
+    background-size:contain;
+    background-repeat:no-repeat;
+  background-position:center;
+}
+.the-witcher-img{
+  height:20vh;
+  margin-top:32vh;
+  padding-left:40vw;
+}
+.assista-agora-img{
+  height:6vh;
+  margin-top:2.5vh;
+  padding-left:42vw;
+}
